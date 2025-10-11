@@ -2,7 +2,7 @@
 
 Accompanying code for the paper "Can GPT-4 Replace Human Examiners? A Competition on Checking Open-Text Answers" by the authors:
 
-pre-print: https://doi.org/10.1038/s41598-025-21572-8
+Publication Link: https://doi.org/10.1038/s41598-025-21572-8
 
     Zubaer, Abdullah Al; Granitzer, Michael;
     Geschwind, Stephan; Graf Lambsdorff, Johann; Voss, Deborah
