@@ -187,7 +187,7 @@ Dataset Citation:
 ```
 
 
-Paper Citation [pre-print]:
+Paper Citation:
 
 ```
 @article{Zubaer2025,
