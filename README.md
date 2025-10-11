@@ -190,25 +190,22 @@ Dataset Citation:
 Paper Citation [pre-print]:
 
 ```
-﻿@Article{Zubaer2025,
-author={Zubaer, Abdullah Al
-and Granitzer, Michael
-and Geschwind, Stephan
-and Graf Lambsdorff, Johann
-and Voss, Deborah},
-title={GPT-4 shows comparable performance to human examiners in ranking open-text answers},
-journal={Scientific Reports},
-year={2025},
-month={Oct},
-day={08},
-volume={15},
-number={1},
-pages={35045},
-abstract={Can GPT-4 replace human examiners? To address this question we explore the performance of GPT-4 as an examiner of answers to open-text questions. We formulate questions and sample solutions in the field of macroeconomics and collect answers from cohorts of undergraduate students. We then conduct a fair competition between GPT-4 and human experts, employing their expertise to assess the quality of the answers. We observe that the substitution of GPT-4 for a human examiner does not decrease inter-rater reliability on tasks that rank the quality of answers. We run checks on potential biases (whether GPT-4 prefers AI-generated or lengthy answers). We find no consistent evidence of such biases. Our findings are robust to tilting the competition to one side's advantage, by using inferior or advanced prompting strategies. Our results are more attenuated on tasks where GPT-4 assigns points to student answers. Here, GPT-4 shows a bias towards longer answers. Overall, our study cautiously supports the utilization of GPT-4 as an assistant for automated grading systems, particularly those where answers are ranked according to their quality.},
-issn={2045-2322},
-doi={10.1038/s41598-025-21572-8},
-url={https://doi.org/10.1038/s41598-025-21572-8}
+@article{Zubaer2025,
+	title        = {GPT-4 shows comparable performance to human examiners in ranking open-text answers},
+	author       = {Zubaer, Abdullah Al and Granitzer, Michael and Geschwind, Stephan and Graf Lambsdorff, Johann and Voss, Deborah},
+	year         = 2025,
+	month        = {Oct},
+	day          = {08},
+	journal      = {Scientific Reports},
+	volume       = 15,
+	number       = 1,
+	pages        = 35045,
+	doi          = {10.1038/s41598-025-21572-8},
+	issn         = {2045-2322},
+	url          = {https://doi.org/10.1038/s41598-025-21572-8},
+	abstract     = {Can GPT-4 replace human examiners? To address this question we explore the performance of GPT-4 as an examiner of answers to open-text questions. We formulate questions and sample solutions in the field of macroeconomics and collect answers from cohorts of undergraduate students. We then conduct a fair competition between GPT-4 and human experts, employing their expertise to assess the quality of the answers. We observe that the substitution of GPT-4 for a human examiner does not decrease inter-rater reliability on tasks that rank the quality of answers. We run checks on potential biases (whether GPT-4 prefers AI-generated or lengthy answers). We find no consistent evidence of such biases. Our findings are robust to tilting the competition to one side's advantage, by using inferior or advanced prompting strategies. Our results are more attenuated on tasks where GPT-4 assigns points to student answers. Here, GPT-4 shows a bias towards longer answers. Overall, our study cautiously supports the utilization of GPT-4 as an assistant for automated grading systems, particularly those where answers are ranked according to their quality.}
 }
+
 
 
 ```
